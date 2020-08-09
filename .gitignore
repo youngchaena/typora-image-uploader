@@ -4,3 +4,6 @@ config.ini
 # env
 .venv
 .vscode
+
+*.jpg
+*.png
